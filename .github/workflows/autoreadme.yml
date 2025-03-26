@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
+    
+permissions:
+  contents: write
 
 jobs:
   markscribe:
@@ -17,7 +20,7 @@ jobs:
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS }}
+            GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
