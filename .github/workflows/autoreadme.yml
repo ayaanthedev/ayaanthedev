@@ -16,6 +16,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Ensures full history is available
+
+      - name: Pull latest changes
+        run: git pull origin main --rebase
 
       - name: Generate README
         uses: muesli/readme-scribe@master
@@ -31,3 +36,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           commit_message: 'markscribe: update README.md'
+          branch: main
