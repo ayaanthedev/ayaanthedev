@@ -1,4 +1,4 @@
-<p align="left"><img src="https://raw.githubusercontent.com/AyaanSucksAtCoding/AyaanSucksAtCoding/refs/heads/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/ayaanthedev/ayaanthedev/refs/heads/main/github-metrics.svg" /></p>
 
 
 
