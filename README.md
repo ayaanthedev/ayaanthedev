@@ -9,8 +9,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ayaanthedev/PatternSpy](https://github.com/ayaanthedev/PatternSpy) - 
 - [ayaanthedev/stepschoolhub](https://github.com/ayaanthedev/stepschoolhub) - stepschoolhub
+- [ayaanthedev/PatternSpy](https://github.com/ayaanthedev/PatternSpy) - 
 - [ayaanthedev/Anti-OverThinking](https://github.com/ayaanthedev/Anti-OverThinking) - 
 - [ayaanthedev/lunar-phase](https://github.com/ayaanthedev/lunar-phase) - 
 - [ayaanthedev/Budget-Tracker](https://github.com/ayaanthedev/Budget-Tracker) - made for fun :)
