@@ -9,11 +9,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mufafa9/Iran-war-anaylizer](https://github.com/mufafa9/Iran-war-anaylizer) - 
 - [ayaanthedev/PatternSpy](https://github.com/ayaanthedev/PatternSpy) - 
 - [ayaanthedev/stepschoolhub](https://github.com/ayaanthedev/stepschoolhub) - stepschoolhub
 - [ayaanthedev/Anti-OverThinking](https://github.com/ayaanthedev/Anti-OverThinking) - 
 - [ayaanthedev/lunar-phase](https://github.com/ayaanthedev/lunar-phase) - 
-- [ayaanthedev/Budget-Tracker](https://github.com/ayaanthedev/Budget-Tracker) - made for fun :)
 ### 🌱 My latest projects
 
 - [ayaanthedev/PatternSpy](https://github.com/ayaanthedev/PatternSpy) - 
