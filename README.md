@@ -9,10 +9,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ayaanthedev/crypto-price-tracker](https://github.com/ayaanthedev/crypto-price-tracker) - 
-- [ayaanthedev/PatternSpy](https://github.com/ayaanthedev/PatternSpy) - 
-- [ayaanthedev/expense_tracker](https://github.com/ayaanthedev/expense_tracker) - 
 - [ayaanthedev/expo_pygame](https://github.com/ayaanthedev/expo_pygame) - 
+- [ayaanthedev/PatternSpy](https://github.com/ayaanthedev/PatternSpy) - 
+- [ayaanthedev/crypto-price-tracker](https://github.com/ayaanthedev/crypto-price-tracker) - 
+- [ayaanthedev/expense_tracker](https://github.com/ayaanthedev/expense_tracker) - 
 - [mufafa9/Iran-war-anaylizer](https://github.com/mufafa9/Iran-war-anaylizer) - 
 ### 🌱 My latest projects
 
