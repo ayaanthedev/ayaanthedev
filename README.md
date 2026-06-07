@@ -9,10 +9,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ayaanthedev/expense_tracker](https://github.com/ayaanthedev/expense_tracker) - 
 - [ayaanthedev/stepschoolhub](https://github.com/ayaanthedev/stepschoolhub) - stepschoolhub
 - [ayaanthedev/expo_pygame](https://github.com/ayaanthedev/expo_pygame) - 
 - [ayaanthedev/crypto-price-tracker](https://github.com/ayaanthedev/crypto-price-tracker) - 
-- [ayaanthedev/expense_tracker](https://github.com/ayaanthedev/expense_tracker) - 
 - [ayaanthedev/PatternSpy](https://github.com/ayaanthedev/PatternSpy) - 
 ### 🌱 My latest projects
 
